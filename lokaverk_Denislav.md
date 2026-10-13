@@ -1,4 +1,4 @@
-
+```python
 from mfrc522 import MFRC522
 from machine import Pin, SoftSPI
 from servo import Servo
@@ -98,5 +98,6 @@ while True:
                     opna()
             else:
                 print("Rangt kort, a ad vera:", KORT)
+```
             sleep_ms(3000)
     sleep_ms(50)
