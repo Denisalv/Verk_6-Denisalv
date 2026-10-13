@@ -10,3 +10,5 @@ Verkefnið mitt er að búa til snjallan kassa sem hægt er að opna og loka me�
 4. **Mótor** – Opnar og lokar kassanum.
 5. **Kassi** – Sjálft hylkið sem geymir hlutina.
 6. **Tengivírar** – Tengja RC522-lesarann við ESP32.
+
+### Ég samþykki að verkefnið mitt og tilheyrandi myndir og skjöl verði birt opinberlega á vefsvæði Tækniskólans.
